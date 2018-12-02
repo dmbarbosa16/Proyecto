@@ -1,0 +1,6 @@
+ranking,dane_code,city,department,school,sector,calendar,Matriculados,Publicados,puesto_saber_11,promedio_puntaje_global_saber_11,desviacion_general,isce_media,isce_secundaria,isce_primaria,saber_9_general,saber_5_general,saber_3_general,formula_1,formula_2,formula_3,total
+1,311001065489,BOGOTÁ D.C.,BOGOTÁ D.C.,LIC CAMPO DAVID,Privado,A,25,25,5,386,20,9.609.670.639,9.006.509.781,8.959.478.378,481,445,434,87.30,91.92,95.07,91.43
+2,311001105430,BOGOTÁ D.C.,BOGOTÁ D.C.,COL LA COLINA                                                                                       ,Privado,B,22,22,21,372,28,8.482.491.493,9.367.835.999,9.323.954.582,479.5,480,455.5,89.35,90.58,93.00,90.98
+3,315001001842,TUNJA,BOYACA,COLEGIO LOS ÁNGELES,Privado,A,47,46,34,365,23,9.442.520.142,9.443.507.195,89.174.757,465.5,434.5,424,84.45,92.68,93.95,90.36
+4,376001013441,CALI,VALLE,COLEGIO BILINGUE DIANA OESE,Privado,B,48,48,4,389,28,9.794.955.254,8.785.610.199,8.500.076.294,471,442,438,87.00,90.27,93.29,90.18
+5,408433075713,MALAMBO,ATLANTICO,CENTRO EDUCATIVO OASIS DE FE,Privado,A,3,3,3646,260,10,0,0,0,441.5,483.5,496,84.05,0.00,96.30,90.17
